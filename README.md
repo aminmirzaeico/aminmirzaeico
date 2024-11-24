@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amin Mirzaei!
 
-Welcome to my GitHub profile! I am a **Full-Stack Developer** passionate about building robust and user-friendly applications. My expertise spans across **frontend** and **backend technologies**, and I thrive on solving complex problems with clean and efficient code.
+Welcome to my GitHub profile! I am a **Full-Stack Developer** passionate about building user-friendly applications. My expertise spans across **frontend** and **backend technologies**, and I thrive on solving complex problems with clean and efficient code.
 
 ---
 
@@ -36,9 +36,11 @@ Welcome to my GitHub profile! I am a **Full-Stack Developer** passionate about b
 ---
 
 ## 📫 Let's Connect
-- **Portfolio:** [aminmirzaei.dev](https://aminmirzaei.dev) *(Coming Soon)*
-- **LinkedIn:** [linkedin.com/in/aminmirzaei](https://linkedin.com/in/aminmirzaei)
-- **Email:** aminmirzaei@gmail.com
+- **Portfolio:** [mirzaei.dev](https://mirzaei.dev) *(Coming Soon)*
+- **LinkedIn:** [@aminmirzaei](https://linkedin.com/in/aminmirzaei)
+- **Email:** aminmirzaeico@yahoo.com
+- **Telegram:** [@aminmirzaeico](https://t.me/aminmirzaeico)
+- **Instagram:** [@aminmirzaeico](https://www.instagram.com/aminmirzaeico)
 
 ---
 
