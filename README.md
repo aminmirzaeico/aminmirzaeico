@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I am a **Full-Stack Developer** passionate about c
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminmirzaeico&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude=Fri)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminmirzaeico&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_days=Fri)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminmirzaeico&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmirzaeico&theme=tokyonight&layout=compact&hide_border=true)  
 
