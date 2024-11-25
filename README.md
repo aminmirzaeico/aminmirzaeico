@@ -42,9 +42,9 @@ Welcome to my GitHub profile! I am a **Full-Stack Developer** passionate about c
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminmirzaeico&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminmirzaeico&theme=react&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmirzaeico&theme=react&layout=compact&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminmirzaeico&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude=Fri)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminmirzaeico&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmirzaeico&theme=tokyonight&layout=compact&hide_border=true)  
 
 ### 🔝 Top Contributed Repos:
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=aminmirzaeico&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
