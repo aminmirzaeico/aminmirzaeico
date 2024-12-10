@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I am a **Full-Stack Developer** passionate about c
 ---
 
 ## 📊 GitHub Stats
+[![](https://visitcount.itsvg.in/api?id=aminmirzaeico&icon=2&color=7)](https://visitcount.itsvg.in)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminmirzaeico&theme=tokyonight&hide_border=true&exclude_days=Fri)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminmirzaeico&theme=tokyonight&layout=compact&hide_border=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminmirzaeico&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
@@ -75,7 +76,3 @@ Welcome to my GitHub profile! I am a **Full-Stack Developer** passionate about c
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=aminmirzaeico&icon=2&color=7)](https://visitcount.itsvg.in)
